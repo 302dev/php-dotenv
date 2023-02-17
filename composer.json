@@ -22,7 +22,6 @@
     },
     "require-dev": {
         "squizlabs/php_codesniffer": "~2.9||~3.7",
-        "php-coveralls/php-coveralls": "~2.0",
         "php-mock/php-mock-phpunit": "~1.1||~2.0"
     },
     "autoload": {
