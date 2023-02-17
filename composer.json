@@ -1,5 +1,8 @@
 {
-    "name": "josegonzalez/dotenv",
+    "name": "302dev/dotenv",
+    "replace": {
+        "josegonzalez/dotenv": "3.2.0"
+    },
     "type": "library",
     "description": "dotenv file parsing for PHP",
     "keywords": ["php", "dotenv", "configuration"],
